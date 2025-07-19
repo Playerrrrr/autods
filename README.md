@@ -5,10 +5,10 @@
 
 ## Installation
 
-Create the environment with:
+Create the environment with [uv](https://github.com/astral-sh/uv):
 
 ```sh
-conda env create -f environment.yml
+uv pip install -r requirements.txt
 ```
 
 Set environment variables:
